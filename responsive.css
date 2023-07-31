@@ -1,0 +1,269 @@
+@media (max-width: 1399.98px) { 
+    .even-sec h4 {
+        font-size: 20px;
+    }
+    .testi-txt {
+        width: 210px;
+    }
+}
+
+@media (max-width: 1199.98px) { 
+    .nav-link {
+        margin-left: 12px;
+        font-size: 15px;
+        line-height: 25px;
+    }
+    div#navbarSupportedContent {
+        padding: 15px 0px;
+    }
+    .banner h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .banner .carousel-dark .carousel-caption {
+        top: 10%;
+    }
+    .serv-card h3 {
+        font-size: 24px;
+        line-height: 60px;
+    }
+    .cont-side h2 {
+        font-size: 32px;
+        line-height: 50px;
+    }
+    .bdr-spn {
+        width: 400px;
+    }
+    .img-side .img-2 {
+        top: 22%;
+        left: 0%;
+    }
+    .event-head {
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .even-sec::before, .even-sec::after {
+        display: none;
+    }
+    .even-sec h4 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .banner-head {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .banner-txt {
+        font-size: 19px;
+        line-height: 29px;
+    }
+    .cont-side h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .blog-sec .event-head {
+        margin: 0;
+    }
+    .scnd-testi .testimonial p {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .scnd-testi .owl-theme .owl-controls {
+        bottom: 30%;
+        left: 37%;
+    }
+    .form-sec .event-head {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .form-sec form {
+        padding: 30px 15px;
+    }
+    .adrs-dv {
+        padding: 30px 30px;
+    }
+    .mail-icon i {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 20px;
+    }
+    .testimonial:hover .testi-txt {
+        width: auto;
+    }
+}
+
+@media (max-width: 991.98px) { 
+    .bnr-txt p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .banner h1 {
+        font-size: 27px;
+        line-height: 37px;
+    }
+    .banner .carousel-dark .carousel-indicators [data-bs-target] {
+        height: 26px;
+    }
+    .bg-gradient {
+        width: 122px;
+        font-size: 11px;
+    }
+    .serv-card p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .serv-card h3 {
+        font-size: 19px;
+        line-height: 45px;
+    }
+    .navbar {
+        background: #fff;
+    }
+    .banner .carousel-dark .carousel-caption {
+        top: 30%;
+    }
+    .banner .carousel-indicators {
+        top: 10%;
+    }
+    .nav-link {
+        color: #e4c620;
+    }
+    .img-1 {
+        position: relative;
+    }
+    .img-side .img-2 {
+        position: relative;
+    }
+    .srvc-crd {
+        margin-top: 20px;
+    }
+    .card {
+        margin-top: 20px;
+    }
+    .scnd-testi .owl-theme .owl-controls {
+        bottom: 33%;
+        left: 33%;
+    }
+    .scnd-testi .testimonial p {
+        font-size: 25px;
+        line-height: 40px;
+        height: 370px;
+    }
+}
+
+@media (max-width: 767.98px) { 
+
+}
+
+@media (max-width: 575.98px) { 
+    .banner .carousel-dark .carousel-indicators [data-bs-target] {
+        height: 18px;
+    }
+    .banner img{
+        height: 290px;
+    }
+    .banner .carousel-dark .carousel-caption {
+        top: 35%;
+    }
+    .banner h1 {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .bnr-txt p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    #home-bnr .bg-gradient {
+        width: 85px;
+        font-size: 9px;
+        padding: 5px;
+    }
+    .img-side {
+        height: auto;
+        flex-direction: column;
+    }
+    .banner-head span {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .banner-head {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .banner-txt {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .form-sec form {
+        padding: 30px 10px;
+    }
+    .event-head {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .bnr-txt {
+        padding: 0px 0px 0px 35px;
+    }
+    .copyright {
+        font-size: 14px;
+    }
+    button.site-btn {
+        padding: 10px 0px;
+        min-width: 120px;
+        font-size: 12px;
+    }
+    .main-box {
+        justify-content: initial;
+    } 
+    .form-sec {
+        padding-bottom: 0;
+    }
+    .scnd-testi .owl-theme .owl-controls {
+        bottom: 3%;
+        left: 33%;
+    }
+    .scnd-testi .testimonial p {
+        font-size: 18px;
+        line-height: 34px;
+        height: auto;
+    }
+    .scnd-testi .pic {
+        margin: 0;
+    }
+}
+
+@media (max-width: 375px) {
+    .bdr-spn {
+        width: 300px;
+    }
+
+    .cont-side h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .cont-side .text {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .event-head {
+        font-size: 24px;
+        line-height: 34px;
+        margin-bottom: 20px;
+    }
+    .cont-side h3 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .scnd-testi .testimonial p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .form-control {
+        font-size: 12px;
+        padding: 5px;
+    }
+    .form-sec {
+        background: none;
+    }
+ }
